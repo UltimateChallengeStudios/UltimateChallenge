@@ -1,0 +1,91 @@
+a {
+    display: inline-block;
+    width: 500px;
+    height: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: #333333;
+    text-decoration: none;
+    color: #FFE800;
+    line-height: 50px;
+    text-align: center;
+}
+a:link {
+    background-color: #333333;
+}
+a:visited {
+    background-color: #333333;
+}
+a:hover {
+    background-color: black;
+}
+
+body {
+    background-color: #57687a;
+}
+
+
+input {
+    font-size: 30px;
+    margin-left: 700px;
+    display: inline-block;
+    background-color: #333333;
+    line-height: 20px;
+    width: 450px;
+    text-align: center;
+    color:darkorange;
+    font-family: sans-serif;
+    
+}
+
+
+
+p {
+font-family: sans-serif;
+color:darkorange;
+text-align: center;
+margin-right: 26px;
+}
+
+button {
+  width: 100px;
+  border: none;
+  outline: none;
+  padding: 20px;
+  font-size: 24px;
+  border-radius: 8px;
+  font-family: sans-serif;
+  color: rgb(27, 166, 247);
+  text-align: center;
+  cursor: pointer;
+  margin-left:46.5%;
+  margin-top: 10px; 
+  border:black;
+}
+
+button:link {
+    background-color: #333333;
+}
+
+button:visited {
+    background-color: #333333;
+}
+
+button:hover {
+    background-color: black;
+}
+
+button:active {
+    background-color: #333333;
+}
+
+#note {
+    color: rgb(27, 166, 247); 
+    margin-bottom: 40px; 
+    font-family: sans-serif; 
+    border-radius: 8px; 
+    display: inline-block; 
+    background-color: white; 
+    font-size: 24px;
+    line-height: 60px;
+}
